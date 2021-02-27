@@ -1,1 +1,0 @@
-print("nowy plik w masterze")
