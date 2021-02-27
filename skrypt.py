@@ -1,6 +1,6 @@
 
 print("hello git")
 
-print(2+2)
+print(2+4)
 
 print("xd beka")
